@@ -17,9 +17,9 @@ Authenticate a user for all next requests
 
 **Parameters**
 
-**login**: `String`, GitHub username
+**login**: `String`, BitBucket username
 
-**token**: `String`, GitHub private token
+**token**: `String`, BitBucket private token
 
 **Returns**: `BitBucket`, fluent interface
 
@@ -29,9 +29,9 @@ Authenticate a user for all next requests using an API token
 
 **Parameters**
 
-**login**: `String`, GitHub username
+**login**: `String`, BitBucket username
 
-**token**: `String`, GitHub API token
+**token**: `String`, BitBucket API token
 
 **Returns**: `BitBucket`, fluent interface
 
@@ -41,9 +41,9 @@ Authenticate a user for all next requests using an API token
 
 **Parameters**
 
-**login**: `String`, GitHub username
+**login**: `String`, BitBucket username
 
-**password**: `String`, GitHub password
+**password**: `String`, BitBucket password
 
 **Returns**: `BitBucket`, fluent interface
 
